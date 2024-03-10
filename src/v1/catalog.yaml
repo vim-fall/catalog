@@ -1,0 +1,5 @@
+packages:
+  - name: vim-fall/package-common
+    url: https://raw.githubusercontent.com/vim-fall/package-common/main/fall-package.json
+  - name: vim-fall/package-devtool
+    url: https://raw.githubusercontent.com/vim-fall/package-devtool/main/fall-package.json
