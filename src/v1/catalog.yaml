@@ -3,3 +3,7 @@ packages:
     url: https://raw.githubusercontent.com/vim-fall/package-common/main/fall-package.json
   - name: vim-fall/package-devtool
     url: https://raw.githubusercontent.com/vim-fall/package-devtool/main/fall-package.json
+  - name: lambdalisue/fall-source-mr.vim
+    url: https://raw.githubusercontent.com/lambdalisue/fall-source-mr.vim/main/fall-package.json
+  - name: lambdalisue/fall-renderer-nerdfont.vim
+    url: https://raw.githubusercontent.com/lambdalisue/fall-renderer-nerdfont.vim/main/fall-package.json
